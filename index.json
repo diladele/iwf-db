@@ -1,7 +1,11 @@
-[
-    {
-        "created": 1760508829,
-        "name": "iwflist.dat",
-        "checksum": "A2E4A72BAC1D58224B767344C9BEA723"
-    }
-]
+{
+    "module": "iwf",
+    "format": "dat",
+    "created": "2025-10-15T13:35:13.435398",
+    "files": [
+        {
+            "name": "iwflist.dat",
+            "checksum": "0F14361A469C94C65C9C8F226D358C02"
+        }
+    ]
+}

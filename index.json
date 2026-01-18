@@ -1,11 +1,11 @@
 {
     "module": "iwf",
     "format": "dat",
-    "created": "2026-01-17T06:40:49.490143",
+    "created": "2026-01-18T07:37:25.087384",
     "files": [
         {
             "name": "iwflist.dat",
-            "checksum": "A9684AD01DCFA7C952E3F9EDE8238A48"
+            "checksum": "837973FCEAC4966292274344C817B135"
         }
     ]
 }
